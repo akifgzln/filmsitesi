@@ -1,0 +1,3 @@
+## Geliştiriciler
+- @wFrkn
+- @akifgzln
